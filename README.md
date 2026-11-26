@@ -1,4 +1,4 @@
-# 📝 Online Quiz Management System
+# 📝 Online Quiz System
 
 ![Java](https://img.shields.io/badge/Java-19-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-19-007396?style=flat-square)
